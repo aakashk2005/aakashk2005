@@ -49,6 +49,7 @@
 ## 🔗 Links
 
 - 🌐 [Portfolio Website](https://aakash-portfolio-b664d.web.app/)  
+- 🔗 [Linktree – All My Links](https://linktr.ee/Aakash.Kannan)  
 - 🎨 [Behance](https://www.behance.net/aakashkannan)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/aakash-kannan-8b51a827b/)  
 - 🐙 [GitHub](https://github.com/aakashk2005)  
