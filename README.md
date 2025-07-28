@@ -1,91 +1,84 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=38BC71&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Aakash+Kannan;UI%2FUX+Designer;Frontend+Developer;Creative+Problem+Solver" alt="Typing Animation" />
-</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aakash-kannan-8b51a827b/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://www.behance.net/aakashkannan">
-    <img src="https://img.shields.io/badge/-Behance-1769FF?style=flat&logo=behance" alt="Behance" />
-  </a>
-  <a href="https://github.com/aakashk2005">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub" />
-  </a>
-  <a href="mailto:aakashkannan05@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail" alt="Email" />
-  </a>
-</p>
+# 👋 Hey there, I'm Aakash Kannan  
+🎓 Final Year B.Tech IT Student | 🎨 UI/UX Designer | 🎬 Aspiring Filmmaker  
+📍 Tamil Nadu, India | 💡 Turning ideas into intuitive designs and powerful code
 
 ---
 
-### 👨‍💻 About Me
-Final year IT student passionate about creating beautiful and functional digital experiences. I bridge the gap between design and development to build solutions that users love.
+## ⚡ About Me
+
+I'm Aakash — a hybrid soul who blends **design thinking** with **technical craft**. From crafting responsive UIs to writing scripts that spark emotion, I thrive at the crossroads of creativity and logic.
+
+- 💻 Passionate about **frontend development**, **user experience**, and **automation**
+- 🧠 Always learning, always building: currently exploring **no-code tools**, **AI workflows**, and **storytelling in tech**
+- 🛠 Former **UI/UX Intern @ Zhahi Info Tech**, where I designed their official website & led content creation
 
 ---
 
-### 🛠️ Tech Stack
-**Languages**:  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+## 🚀 Skills & Tools
 
-**Design Tools**:  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva)
+### 💻 Programming
+`Python` • `Core Java` • `C` • `SQL` • `JavaScript` • `HTML` • `CSS`
 
-**Dev Tools**:  
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
+### 🎨 UI/UX & Design
+`Figma` • `Webflow` • `Canva` • `FlutterFlow` • `Maze`
+
+### ⚙️ Dev Tools
+`VS Code` • `GitHub` • `Notion` • `n8n` • `Live Server` • `Chrome DevTools`
+
+### 📚 Libraries
+`NumPy` • `Matplotlib` • `Tkinter`
 
 ---
 
-### 🚀 Featured Projects
+## 🧩 Featured Projects
 
-| Project       | Description          | Links | Tech/Tools |
-|---------------|----------------------|-------|------------|
-| **Fixura**    | Home services platform UI | [![Behance](https://img.shields.io/badge/Behance-1769FF?logo=behance)](https://www.behance.net/gallery/212585949/UIUX-Mobile-App) | Figma |
-| **Web Cricket** | Browser-based cricket game | [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/aakashk2005/Web-Cricket-using-HTML-CSS-JS) | HTML, CSS, JS |
-| **ReelTalks** | Movie community platform | [![Behance](https://img.shields.io/badge/Behance-1769FF?logo=behance)](https://www.behance.net/gallery/230067247/ReelTalks-A-Cinematic-UI-Experience-for-Movie-Lovers) | Figma |
+### 🔹 [Fixura – Home Services App (UI/UX)](https://www.behance.net/gallery/212585949/UIUX-Mobile-App)
+A sleek mini construction service app — transforming spaces with a reliable, user-first interface.  
+🛠 Tools: Figma
 
----
+### 🔹 [Web Cricket Game](https://github.com/aakashk2005/Web-Cricket-using-HTML-CSS-JS)
+A fun, turn-based browser cricket game made using only HTML, CSS, and JS.  
+⚙️ Tech Stack: HTML, CSS, JavaScript
 
-### 🏆 Achievements
-- 🥈 **Finalist** in Dark Pattern Buster 2023 (IIT BHU)
-- 🌐 Designed official college symposium website
-- ✍️ Co-authored "Voice of Heart" and "Soulful Scribbles"
-- 🤖 **Finalist** in Gainwell-Bhumi Hackathon 2025
+### 🔹 [ReelTalks – Movie Platform UI](https://www.behance.net/gallery/230067247/ReelTalks-A-Cinematic-UI-Experience-for-Movie-Lovers)
+A bold, cinematic platform for film lovers — dark-themed with storytelling at its heart.  
+🛠 Tools: Figma
 
 ---
 
-### 💼 Experience
-**UI/UX Designer Intern** @ Zhahi Info Tech  
-_Mar 2025 - May 2025_  
-- Designed company website using Figma
-- Created digital content for web and social media
-- Implemented responsive design workflows
+## 🏆 Achievements
 
-**Workshop Instructor**  
-- Conducted "UI/UX Mastery" workshop for juniors
-- Taught Figma, wireframing, and prototyping
+- 🥇 **Finalist**, *Dark Pattern Buster 2023*, IIT BHU – Out of 400+ teams nationwide  
+- 🥈 **Finalist**, *Gainwell–Bhumi Hackathon 2025* – for sustainable tech solutions  
+- 🛠 Built the official **college symposium website** with responsive design  
+- ✍️ **Published author** – Co-authored _"Voice of Heart"_ & _"Soulful Scribbles"_
 
 ---
 
-### 🌱 Currently Learning
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react) 
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer) 
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)
+## 🎯 Roles & Responsibilities
+
+- 🧑‍🏫 Led a hands-on **UI/UX Mastery** workshop for juniors  
+- 📸 **Photographer & Event Organizer** – ZITA (college tech/culture club)  
+- ✍️ **Content Creator @ Zhahi Info Tech** – for design & social media marketing
 
 ---
 
-<p align="center">
-  <a href="https://aakash-portfolio-b664d.web.app/">
-    <img src="https://img.shields.io/badge/View_Portfolio-38BC71?style=for-the-badge" alt="Portfolio" />
-  </a>
-</p>
+## 🔗 Let's Connect!
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BC71&height=100&section=footer" />
-</div>
+| 🌐 Portfolio | 🧑‍💼 LinkedIn | 🎨 Behance | 🐱 GitHub | 📬 Email |
+|-------------|---------------|-------------|----------|----------|
+| [Website](https://aakash-portfolio-b664d.web.app/) | [LinkedIn](https://www.linkedin.com/in/aakash-kannan-8b51a827b/) | [Behance](https://www.behance.net/aakashkannan) | [GitHub](https://github.com/aakashk2005) | [aakashkannan05@gmail.com](mailto:aakashkannan05@gmail.com) |
+
+---
+
+## 🔮 What’s Next?
+
+Currently building:
+- A film-inspired **portfolio redesign** with animations and VFX-inspired UI  
+- Learning **Blender** and **3D motion** for animated movie concepts  
+- Writing my next **script** for a magical-romantic film project 🎬✨
+
+---
+
+> _“Design with purpose. Code with passion. Dream without limits.”_
+
