@@ -143,3 +143,9 @@ graph LR
   C -->|Event Photographer| C2[ZITA Club]
   D -->|Fixura| D1[Figma Design]
   D -->|Web Cricket| D2[JS Game]
+
+🌱 Currently Growing
+<div align="center"> <table> <tr> <th>Skill</th> <th>Progress</th> </tr> <tr> <td>React Framework</td> <td><img src="https://progress-bar.dev/65?title=&width=200" alt="65%"></td> </tr> <tr> <td>UI Animations</td> <td><img src="https://progress-bar.dev/50?title=&width=200" alt="50%"></td> </tr> <tr> <td>Cloud Deployment</td> <td><img src="https://progress-bar.dev/40?title=&width=200" alt="40%"></td> </tr> </table> </div>
+📬 Connect With Me
+<div align="center"> <a href="https://aakash-portfolio-b664d.web.app/"> <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="Portfolio"> </a> <a href="https://www.linkedin.com/in/aakash-kannan-8b51a827b/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://www.behance.net/aakashkannan"> <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"> </a> <a href="https://github.com/aakashk2005"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thank+You+For+Visiting!&fontSize=30&fontAlignY=70" /> </div> 
