@@ -1,60 +1,77 @@
-# 👋 Hi, I'm Aakash Kannan
-
-🎓 Final Year B.Tech IT Student at K.S. Rangasamy College of Technology  
-💻 Passionate about Frontend Development, UI/UX Design, and Creative Projects
-
----
-
-## 🧠 About Me
-
-- 📍 Tamil Nadu, India  
-- 💡 Curious learner exploring design, web development, and automation  
-- 🔧 Recently completed a UI/UX Design Internship at **Zhahi Info Tech**  
-- 🧑‍🏫 Conducted a "UI/UX Mastery" workshop for juniors  
-- 📈 Finalist in national hackathons like **Dark Pattern Buster (IIT BHU)** and **Gainwell–Bhumi Hackathon**
+# 👋 Hey there, I'm Aakash Kannan  
+🎓 Final Year B.Tech IT Student | 🎨 UI/UX Designer | 🎬 Aspiring Filmmaker  
+📍 Tamil Nadu, India | 💡 Turning ideas into intuitive designs and powerful code
 
 ---
 
-## 💼 Skills
+## ⚡ About Me
 
-- **Languages**: Python, Core Java, Core C, SQL  
-- **Web**: HTML, CSS, JavaScript  
-- **Design Tools**: Figma, Canva, Webflow, Flutterflow  
-- **Other Tools**: VS Code, GitHub, n8n  
-- **Libraries**: NumPy, Matplotlib, Tkinter
+I'm Aakash — a hybrid soul who blends **design thinking** with **technical craft**. From crafting responsive UIs to writing scripts that spark emotion, I thrive at the crossroads of creativity and logic.
+
+- 💻 Passionate about **frontend development**, **user experience**, and **automation**
+- 🧠 Always learning, always building: currently exploring **no-code tools**, **AI workflows**, and **storytelling in tech**
+- 🛠 Former **UI/UX Intern @ Zhahi Info Tech**, where I designed their official website & led content creation
 
 ---
 
-## 🛠️ Projects
+## 🚀 Skills & Tools
 
-### 🔹 [Fixura (UI/UX Design)](https://www.behance.net/gallery/212585949/UIUX-Mobile-App)  
-> Transforming Spaces, One Project at a Time – A UI/UX mobile app design for reliable home services  
-> Tools: Figma
+### 💻 Programming
+`Python` • `Core Java` • `C` • `SQL` • `JavaScript` • `HTML` • `CSS`
 
-### 🔹 [Web Cricket Game](https://github.com/aakashk2005/Web-Cricket-using-HTML-CSS-JS)  
-> A lightweight browser-based cricket game built with HTML, CSS, and JavaScript  
-> Tools: HTML, CSS, JS
+### 🎨 UI/UX & Design
+`Figma` • `Webflow` • `Canva` • `FlutterFlow` • `Maze`
+
+### ⚙️ Dev Tools
+`VS Code` • `GitHub` • `Notion` • `n8n` • `Live Server` • `Chrome DevTools`
+
+### 📚 Libraries
+`NumPy` • `Matplotlib` • `Tkinter`
+
+---
+
+## 🧩 Featured Projects
+
+### 🔹 [Fixura – Home Services App (UI/UX)](https://www.behance.net/gallery/212585949/UIUX-Mobile-App)
+A sleek mini construction service app — transforming spaces with a reliable, user-first interface.  
+🛠 Tools: Figma
+
+### 🔹 [Web Cricket Game](https://github.com/aakashk2005/Web-Cricket-using-HTML-CSS-JS)
+A fun, turn-based browser cricket game made using only HTML, CSS, and JS.  
+⚙️ Tech Stack: HTML, CSS, JavaScript
+
+### 🔹 [ReelTalks – Movie Platform UI](https://www.behance.net/gallery/230067247/ReelTalks-A-Cinematic-UI-Experience-for-Movie-Lovers)
+A bold, cinematic platform for film lovers — dark-themed with storytelling at its heart.  
+🛠 Tools: Figma
 
 ---
 
 ## 🏆 Achievements
 
-- 🎖️ Finalist – *Dark Pattern Buster 2023*, IIT BHU Hackathon (400+ teams)  
-- 🏅 Finalist – *Gainwell–Bhumi Hackathon*, May 2025  
-- 🌐 Designed official website for college symposium  
-- ✍️ Co-author in anthologies *Voice of Heart* and *Soulful Scribbles*
+- 🥇 **Finalist**, *Dark Pattern Buster 2023*, IIT BHU – Out of 400+ teams nationwide  
+- 🥈 **Finalist**, *Gainwell–Bhumi Hackathon 2025* – for sustainable tech solutions  
+- 🛠 Built the official **college symposium website** with responsive design  
+- ✍️ **Published author** – Co-authored _"Voice of Heart"_ & _"Soulful Scribbles"_
 
 ---
 
-## 🔗 Links
+## 🎯 Roles & Responsibilities
 
-- 🌐 [Portfolio Website](https://aakash-portfolio-b664d.web.app/)  
-- 🔗 [Linktree – All My Links](https://linktr.ee/Aakash.Kannan)  
-- 🎨 [Behance](https://www.behance.net/aakashkannan)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/aakash-kannan-8b51a827b/)  
-- 🐙 [GitHub](https://github.com/aakashk2005)  
-- 📧 [aakashkannan05@gmail.com](mailto:aakashkannan05@gmail.com)
+- 🧑‍🏫 Led a hands-on **UI/UX Mastery** workshop for juniors  
+- 📸 **Photographer & Event Organizer** – ZITA (college tech/culture club)  
+- ✍️ **Content Creator @ Zhahi Info Tech** – for design & social media marketing
 
 ---
 
-> “Design with purpose. Code with passion. Grow every day.” 🚀
+## 🔗 Let's Connect!
+
+| 🌐 Portfolio | 🧑‍💼 LinkedIn | 🎨 Behance | 🐱 GitHub | 📬 Email |
+|-------------|---------------|-------------|----------|----------|
+| [Website](https://aakash-portfolio-b664d.web.app/) | [LinkedIn](https://www.linkedin.com/in/aakash-kannan-8b51a827b/) | [Behance](https://www.behance.net/aakashkannan) | [GitHub](https://github.com/aakashk2005) | [aakashkannan05@gmail.com](mailto:aakashkannan05@gmail.com) |
+
+
+
+---
+
+> _“Design with purpose. Code with passion. Dream without limits.”_
+
