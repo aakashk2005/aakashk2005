@@ -17,135 +17,135 @@
   </a>
 </p>
 
+<!-- Animated Stats Section -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aakashk2005&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashk2005&theme=radical" alt="GitHub Streak" />
 </div>
 
+<!-- Animated Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashk2005&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashk2005&theme=react-dark&hide_border=true&area=true&bg_color=0D1117" alt="Activity Graph" />
 </div>
 
----
+<!-- Floating Animation Divider -->
+<div align="center">
+  <img src="https://github.com/aakashk2005/aakashk2005/blob/main/assets/divider.svg?raw=true" width="100%" height="8" alt="divider">
+</div>
 
 ### 🔥 Creative Philosophy
 > *"I bridge imagination with implementation through:*  
-> 🎨 **Design Thinking** + 💻 **Clean Code** + 🧪 **Continuous Experimentation**"
+> 🎨 **Design Thinking** + 💻 **Clean Code** + 🧪 **Continuous Experimentation"*  
+> 
+> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF79C6&center=true&vCenter=true&width=435&lines=Transforming+ideas+into+intuitive+experiences;Designing+with+precision%2C+coding+with+passion;Where+aesthetics+meet+functionality" alt="Philosophy Typing" />
 
----
-
-### 🛠️ Tech Arsenal
-
+<!-- Animated Tech Stack -->
+### 🚀 Tech Stack Evolution
 <div align="center">
-  <table>
-    <tr>
-      <td><b>💻 Languages</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
-        <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL">
-      </td>
-    </tr>
-    <tr>
-      <td><b>🎨 Design Tools</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
-        <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white" alt="Canva">
-        <img src="https://img.shields.io/badge/Webflow-4353FF?logo=webflow&logoColor=white" alt="Webflow">
-        <img src="https://img.shields.io/badge/Flutterflow-02569B?logo=flutter&logoColor=white" alt="Flutterflow">
-      </td>
-    </tr>
-    <tr>
-      <td><b>⚙️ DevOps</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" alt="VS Code">
-        <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" alt="Notion">
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=js,html,css,py,java,react,figma,git,github,vscode,firebase,ai&perline=6" alt="Tech Icons" />
 </div>
 
----
+<details>
+  <summary><b>📊 Skill Progression</b></summary>
+  <div align="center">
+    <table>
+      <tr>
+        <th>Skill</th>
+        <th>Mastery</th>
+      </tr>
+      <tr>
+        <td>UI/UX Design</td>
+        <td><img src="https://progress-bar.dev/92?title=&width=200&color=FF79C6" alt="92%"></td>
+      </tr>
+      <tr>
+        <td>Frontend Development</td>
+        <td><img src="https://progress-bar.dev/85?title=&width=200&color=8BE9FD" alt="85%"></td>
+      </tr>
+      <tr>
+        <td>JavaScript</td>
+        <td><img src="https://progress-bar.dev/88?title=&width=200&color=F1FA8C" alt="88%"></td>
+      </tr>
+      <tr>
+        <td>React Framework</td>
+        <td><img src="https://progress-bar.dev/75?title=&width=200&color=50FA7B" alt="75%"></td>
+      </tr>
+      <tr>
+        <td>Design Systems</td>
+        <td><img src="https://progress-bar.dev/90?title=&width=200&color=FFB86C" alt="90%"></td>
+      </tr>
+    </table>
+  </div>
+</details>
 
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="30%">
+<!-- Project Showcase with Animations -->
+### 🌟 Featured Projects
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <!-- Project 1 -->
+    <div style="width: 300px; border-radius: 10px; padding: 20px; background: linear-gradient(145deg, #1e1e2e, #252536); box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;">
       <h3>🏠 Fixura</h3>
       <p>Home Services Platform</p>
       <a href="https://www.behance.net/gallery/212585949/UIUX-Mobile-App">
-        <img src="https://img.shields.io/badge/Live_Demo-212585949?style=for-the-badge&logo=behance&logoColor=white" alt="Live Demo">
+        <img src="https://img.shields.io/badge/View_Prototype-212585949?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
       </a>
       <p><i>Minimalist UI for construction services</i></p>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
-    </td>
-    <td width="30%">
+      <div style="display: flex; gap: 5px; margin-top: 10px;">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
+        <img src="https://img.shields.io/badge/Prototyping-FF4088?logo=adobe-xd&logoColor=white" alt="Prototyping">
+      </div>
+    </div>
+    
+    <!-- Project 2 -->
+    <div style="width: 300px; border-radius: 10px; padding: 20px; background: linear-gradient(145deg, #1e1e2e, #252536); box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;">
       <h3>🏏 Web Cricket</h3>
       <p>Browser Game</p>
       <a href="https://github.com/aakashk2005/Web-Cricket-using-HTML-CSS-JS">
-        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
       </a>
       <p><i>JS-powered cricket experience</i></p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
-    </td>
-    <td width="30%">
+      <div style="display: flex; gap: 5px; margin-top: 10px;">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+      </div>
+    </div>
+    
+    <!-- Project 3 -->
+    <div style="width: 300px; border-radius: 10px; padding: 20px; background: linear-gradient(145deg, #1e1e2e, #252536); box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;">
       <h3>🎬 ReelTalks</h3>
       <p>Movie Community</p>
       <a href="https://www.behance.net/gallery/230067247/ReelTalks-A-Cinematic-UI-Experience-for-Movie-Lovers">
-        <img src="https://img.shields.io/badge/Design_Showcase-230067247?style=for-the-badge&logo=behance&logoColor=white" alt="Design Showcase">
+        <img src="https://img.shields.io/badge/Design_Showcase-230067247?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
       </a>
       <p><i>Cinematic dark-mode UI</i></p>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏆 Achievements
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://img.shields.io/badge/1st-000000?style=for-the-badge&logo=starship&logoColor=gold" alt="First Place"></td>
-      <td><b>Dark Pattern Buster 2023 Finalist</b><br>Top 10 among 400+ teams at IIT BHU</td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Web-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web"></td>
-      <td><b>College Symposium Website</b><br>Redesigned with 40% UX improvement</td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Book-000000?style=for-the-badge&logo=bookstack&logoColor=white" alt="Book"></td>
-      <td><b>Published Author</b><br>Co-authored "Voice of Heart" & "Soulful Scribbles"</td>
-    </tr>
-  </table>
+      <div style="display: flex; gap: 5px; margin-top: 10px;">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma">
+        <img src="https://img.shields.io/badge/UI_Design-1769FF?logo=adobe-creative-cloud&logoColor=white" alt="UI Design">
+      </div>
+    </div>
+  </div>
 </div>
 
----
-
-### 💼 Professional Journey
-
-mermaid
-graph LR
-  A[Education] --> B[Experience]
-  B --> C[Leadership]
-  C --> D[Projects]
-  
-  A -->|B.Tech IT<br>7.5 CGPA| A1[KSRCT]
-  B -->|UI/UX Intern| B1[Zhahi Info Tech]
-  C -->|Workshop Instructor| C1[UI/UX Mastery]
-  C -->|Event Photographer| C2[ZITA Club]
-  D -->|Fixura| D1[Figma Design]
-  D -->|Web Cricket| D2[JS Game]
-
-🌱 Currently Growing
-<div align="center"> <table> <tr> <th>Skill</th> <th>Progress</th> </tr> <tr> <td>React Framework</td> <td><img src="https://progress-bar.dev/65?title=&width=200" alt="65%"></td> </tr> <tr> <td>UI Animations</td> <td><img src="https://progress-bar.dev/50?title=&width=200" alt="50%"></td> </tr> <tr> <td>Cloud Deployment</td> <td><img src="https://progress-bar.dev/40?title=&width=200" alt="40%"></td> </tr> </table> </div>
-📬 Connect With Me
-<div align="center"> <a href="https://aakash-portfolio-b664d.web.app/"> <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="Portfolio"> </a> <a href="https://www.linkedin.com/in/aakash-kannan-8b51a827b/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://www.behance.net/aakashkannan"> <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"> </a> <a href="https://github.com/aakashk2005"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thank+You+For+Visiting!&fontSize=30&fontAlignY=70" /> </div> 
+<!-- Animated Timeline -->
+### 🚀 Professional Journey
+```mermaid
+gantt
+    title My Development Journey
+    dateFormat  YYYY-MM
+    axisFormat  %b %Y
+    
+    section Education
+    B.Tech IT          :active,    edu1, 2021-09, 2025-06
+    UI/UX Certifications :         edu2, 2022-01, 2022-06
+    
+    section Experience
+    UI/UX Intern @Zhahi :active,    exp1, 2023-01, 2023-06
+    Frontend Developer  :         exp2, 2023-07, 2024-01
+    
+    section Achievements
+    Dark Pattern Buster :         a1, 2023-03, 2023-04
+    Published Author    :         a2, 2022-08, 2022-10
+    Workshop Instructor : active, a3, 2023-09, 2023-12
+<!-- Animated Contact Section -->
+🌈 Let's Connect
+<div align="center"> <a href="https://aakash-portfolio-b664d.web.app/"> <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="Portfolio"> </a> <a href="https://www.linkedin.com/in/aakash-kannan-8b51a827b/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://www.behance.net/aakashkannan"> <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"> </a> <a href="https://github.com/aakashk2005"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </div><div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=500&color=50FA7B&center=true&vCenter=true&width=435&lines=Crafting+digital+experiences+that+resonate;Turning+concepts+into+visually+stunning+reality;Let's+create+something+amazing+together" alt="Connect Message" /> </div><!-- Animated Footer --><div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thank+You+For+Visiting!&fontSize=30&fontAlignY=70&animation=fadeIn" /> </div> ```
